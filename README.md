@@ -1,5 +1,5 @@
 # Instagram Photo Generator
-This Laravel App Generate post's photo based on your template image for forground and your image in background. you can add cusome texts with customized fonts and etc. 
+This Laravel App Generate post's photo based on your template image for foreground and your image in background. you can add custom texts with customized fonts and etc. 
 <br>
 ## First Version :
 <br>
